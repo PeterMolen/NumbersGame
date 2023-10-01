@@ -20,7 +20,7 @@ namespace NumbersGame
             {
                 Console.Write("Gissa ett tal: ");
                 int userInput = int.Parse(Console.ReadLine());
-                //userinput without "debbuging" just a simple code this time.
+                //userinput without "converting".
 
                 if (userInput == randomNum)
                 {
